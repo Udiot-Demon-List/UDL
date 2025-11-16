@@ -6,5 +6,21 @@
     "verifier": "FlamingLazer",
     "verification": "https://youtu.be/MBLxwZKn8ug",
     "percentToQualify": 71,
-    "records": []
+    "records": [
+        {
+            "user": "EnragedApple",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Schmixed",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Liland",
+            "link": "",
+            "percent": 100
+        }
+    ]
 }
