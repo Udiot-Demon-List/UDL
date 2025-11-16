@@ -1,10 +1,26 @@
 {
     "id": 58002670,
     "name": "Sakupen Egg",
-    "author": "SivLOL",
+    "author": "Sivlol",
     "creators": [],
     "verifier": "WhirlyTwirly",
     "verification": "https://youtu.be/M61Vqi6ryj8",
-    "percentToQualify": 65,
-    "records": []
+    "percentToQualify": "65",
+    "records": [
+        {
+            "user": "EnragedApple",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Schmixed",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "FlamingLazer",
+            "link": "",
+            "percent": 100
+        }
+    ]
 }
