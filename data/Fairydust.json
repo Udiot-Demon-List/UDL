@@ -6,5 +6,12 @@
     "verifier": "WhirlyTwirly",
     "verification": "https://www.youtube.com/watch?v=99CttNYvv30",
     "percentToQualify": 66,
-    "records": []
+    "records": [
+        {
+            "user": "FlamingLazer",
+            "link": "https://youtu.be/J8weC9tIJrs",
+            "percent": 100
+        }
+        
+    ]
 }
